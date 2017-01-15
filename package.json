@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "OpenClassrooms course on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logik6/nodejs-course.git"
+  },
+  "keywords": [
+    "OpenClassrooms",
+    "nodejs"
+  ],
+  "author": "Sarath Dorbala",
+  "license": "ISC"
+}
